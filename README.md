@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @zhangzhangzhang-jpg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 122
-- 456
+Newton-method-in-optimization
+=============================
 
+Newton method on the Rosenbrock function
 
--123
--456
+grad_descent.m is used to compare with the newton_opt.m
+
